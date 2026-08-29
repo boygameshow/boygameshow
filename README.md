@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**boygameshow/boygameshow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm Boygameshow
 
-Here are some ideas to get you started:
+### 💻 Developer | 🎮 Gamer | ⚡ Server Manager
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Developer+%7C+Gamer;Building+Bots+%26+Game+Servers;REX-X+Esports+%F0%9F%8E%AE" />
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```yaml
+Username: boygameshow
+Role: Developer & Gamer
+Focus:
+  - Python
+  - JavaScript
+  - Telegram Bots
+  - Cloudflare Workers
+  - Game Servers
+  - Server Management
+
+Community: REX-X Esports
